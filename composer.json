@@ -1,0 +1,8 @@
+{
+    "name": "pnlinh/css_sprite",
+    "description": "Trick of CSS Advanced",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
